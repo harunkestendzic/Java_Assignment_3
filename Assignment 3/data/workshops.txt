@@ -1,0 +1,5 @@
+W1,Java Foundations,25
+W2,OOP Patterns,20
+W3,Streams in Practice,30
+W4,Concurrency Basics,18
+W5,File I/O & Reporting,22

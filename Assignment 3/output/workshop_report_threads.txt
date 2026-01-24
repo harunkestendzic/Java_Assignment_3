@@ -1,0 +1,5 @@
+W3 - Streams in Practice - 76,25
+W5 - File I/O & Reporting - 76,38
+W1 - Java Foundations - 70,00
+W4 - Concurrency Basics - 75,50
+W2 - OOP Patterns - 71,22
